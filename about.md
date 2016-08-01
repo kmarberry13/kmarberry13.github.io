@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-My name I Kim Marberry.
+My name is Kim Marberry.
 I was born and raised in Keizer, OR.
 I joined the US Army in 1995 as a Combat Medic.
 Once leaving the military I decided I wanted to become a Computer electronics technician.
